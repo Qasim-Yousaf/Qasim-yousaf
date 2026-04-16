@@ -20,10 +20,11 @@ and gaming.
 
 ## Tech Stack
 
-**Mobile:** React Native, Flutter, Swift, SwiftUI, Dart, Expo, Kotlin
-**Web:** Next.js, React.js, TypeScript, JavaScript, Node.js
-**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Firebase
-**DevOps:** Fastlane, Bitrise, Jenkins, CI/CD, CodePush
+- **Mobile:** React Native, Flutter, Swift, SwiftUI, Dart, Expo, Kotlin
+- **Web:** Next.js, React.js, TypeScript, JavaScript, Node.js
+- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Firebase
+- **DevOps:** Fastlane, Bitrise, Jenkins, CI/CD, CodePush
+- **Integrations:** OpenAI, Stripe, Shopify, Google Maps, Waze, Apple Health, Terra SDK
 
 ## Experience
 
@@ -31,7 +32,25 @@ and gaming.
 - Senior React Native Developer at InvoZone (2021 - 2025)
 - Software Engineer at Technovier (2019 - 2021)
 
-## Connect
+## :chart_with_upwards_trend: Why Clients Hire Me
+
+- **Fast understanding of requirements** — I quickly grasp business needs and translate them into working solutions without long back-and-forth.
+
+- **Strong remote work experience** — Proven track record working with clients across GCC, USA, and Europe, adapting to different workflows, time zones, and expectations.
+
+- **Clear communication (C1 English)** — I communicate ideas, progress, and challenges clearly, reducing misunderstandings and delays.
+
+- **Ownership mindset** — I don’t just execute tasks; I take responsibility for delivering complete, reliable features.
+
+- **Production experience** — Built and shipped multiple real-world apps with complex logic, integrations, and scalability requirements.
+
+- **Reliable & responsive** — Clients trust me to deliver on time and stay proactive throughout the project lifecycle.
+  
+## :handshake: Let’s Work Together
+
+If you're building a mobile app or scaling an existing one, I can help.
 
 - Upwork: https://www.upwork.com/freelancers/qasimyousaf
 - LinkedIn: https://www.linkedin.com/in/muhammad-qasim-yousaf-465593171
+
+---
