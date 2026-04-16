@@ -22,11 +22,11 @@ and gaming.
 
 - **Mobile:** React Native, Flutter, Swift, SwiftUI, Dart, Expo, Kotlin
 - **Web:** Next.js, React.js, TypeScript, JavaScript, Node.js
-- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Firebase, SupaBase
+- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL
 - **DevOps:** Fastlane, Bitrise, Jenkins, CI/CD, CodePush, GitHub
 - **Integrations:** OpenAI, Stripe, Shopify, Google Maps, Waze, Apple Health, Terra SDK
 - **Store:** Apple Connect, Google Play Console
-- 
+- **Cloud:** AWS, GCP, Firebase, SupaBase
 
 ## Experience
 
