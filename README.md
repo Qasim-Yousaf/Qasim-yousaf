@@ -25,7 +25,8 @@ and gaming.
 - **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Firebase, SupaBase
 - **DevOps:** Fastlane, Bitrise, Jenkins, CI/CD, CodePush, GitHub
 - **Integrations:** OpenAI, Stripe, Shopify, Google Maps, Waze, Apple Health, Terra SDK
-- **Store:** Apple Connect | Google Play Console 
+- **Store:** Apple Connect, Google Play Console
+- 
 
 ## Experience
 
