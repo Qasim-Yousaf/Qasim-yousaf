@@ -47,6 +47,31 @@ and gaming.
 
 - **Reliable & responsive** — Clients trust me to deliver on time and stay proactive throughout the project lifecycle.
   
+## :speech_balloon: What People Say
+
+> "Qasim consistently demonstrates exceptional technical skills, strong work ethic, and delivers projects on time while exceeding expectations."
+>
+> — Farman Sikandar Ali, Project Manager
+
+---
+
+> "Very good at analyzing requirements and making decisions that help build scalable applications."
+>
+> — Adeel Miraj, Principal Consultant Mobile Development
+
+---
+
+> "Reliable, skilled engineer with excellent communication and strong team collaboration."
+>
+> — Hasan Jafri, Co-Founder @ Big Shooter Golf
+
+---
+
+> "Strong ownership, clear communication, and execution under pressure — played a key role in delivering a critical business win."
+>
+> — Asna, Team Lead Business Development 
+
+
 ## :handshake: Let’s Work Together
 
 If you're building a mobile app or scaling an existing one, I can help.
