@@ -1,6 +1,6 @@
 # Hi, I'm Qasim Yousaf
 
-Senior React Native & Flutter Developer with 7+ years of experience shipping
+Senior React Native & Flutter Developer with 6+ years of experience shipping
 production iOS and Android apps across fintech, health tech, enterprise, eCommerce,
 and gaming.
 
