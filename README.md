@@ -10,7 +10,7 @@ and gaming.
 |-----|----------|-------|
 | Bright Future | EdTech | React Native, Php Laravel, BunnyCDN, AWS |
 | Clean Energy | Maps + Location | React Native, Google Maps, Waze |
-| Bigshooter Golf | Sports | React Native, AWS |
+| Bigshooter Golf | Gaming | React Native, AWS |
 | App Work| Technician App | React Native, Node, Firebase, AWS|
 | Cash Coach AI | AI + Fintech | React Native, OpenAI, Firebase |
 | Zid POS | Enterprise POS | React Native Windows, Realm DB |
