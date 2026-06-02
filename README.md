@@ -1,14 +1,13 @@
 # Hi, I'm Qasim Yousaf
 
-Senior React Native & Flutter Developer with 6+ years of experience shipping
-production iOS and Android apps across fintech, health tech, enterprise, eCommerce,
-and gaming.
+Senior Mobile Application Engineer | React Native Developer — 6+ years shipping 
+production iOS & Android apps across Fintech, EdTech, Healthcare, Enterprise, E-commerce & Gaming.
 
 ## Live Apps I Have Built
 
 | App | Category | Stack |
 |-----|----------|-------|
-| Bright Future | EdTech | React Native, Php Laravel, BunnyCDN, AWS |
+| Bright Future | EdTech | React Native, PHP Laravel, BunnyCDN, AWS |
 | Clean Energy | Maps + Location | React Native, Google Maps, Waze |
 | Bigshooter Golf | Gaming | React Native, AWS |
 | App Work| Technician App | React Native, Node, Firebase, AWS|
@@ -30,7 +29,7 @@ and gaming.
 
 ## Experience
 
-- Senior Mobile Engineer at ByteSparkles (2025 - Present)
+- Senior Mobile Engineer at Devsinc (2025 - Present)
 - Senior React Native Developer at InvoZone (2021 - 2025)
 - Software Engineer at Technovier (2019 - 2021)
 
@@ -38,7 +37,7 @@ and gaming.
 
 - **Fast understanding of requirements** — I quickly grasp business needs and translate them into working solutions without long back-and-forth.
 
-- **Strong remote work experience** — Proven track record working with clients across GCC, USA, and Europe, adapting to different workflows, time zones, and expectations.
+- **Strong remote work experience** — Proven track record working with clients across the GCC, the USA, and Europe, adapting to different workflows, time zones, and expectations.
 
 - **Clear communication (C1 English)** — I communicate ideas, progress, and challenges clearly, reducing misunderstandings and delays.
 
@@ -50,7 +49,7 @@ and gaming.
   
 ## :speech_balloon: What People Say
 
-> "Qasim consistently demonstrates exceptional technical skills, strong work ethic, and delivers projects on time while exceeding expectations."
+> "Qasim consistently demonstrates exceptional technical skills, a strong work ethic, and delivers projects on time while exceeding expectations."
 >
 > — Farman Sikandar Ali, Project Manager
 
@@ -78,6 +77,6 @@ and gaming.
 If you're building a mobile app or scaling an existing one, I can help.
 
 - Upwork: https://www.upwork.com/freelancers/qasimyousaf
-- LinkedIn: https://www.linkedin.com/in/muhammad-qasim-yousaf-465593171
+- LinkedIn: https://www.linkedin.com/in/qasim-yousaf
 
 ---
