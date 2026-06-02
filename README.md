@@ -29,8 +29,8 @@ production iOS & Android apps across Fintech, EdTech, Healthcare, Enterprise, E-
 
 ## Experience
 
-- Senior Mobile Engineer at Devsinc (2025 - Present)
-- Senior React Native Developer at InvoZone (2021 - 2025)
+- Senior Software Engineer at Devsinc (2025 - Present)
+- Senior Software at InvoZone (2021 - 2025)
 - Software Engineer at Technovier (2019 - 2021)
 
 ## :chart_with_upwards_trend: Why Clients Hire Me
