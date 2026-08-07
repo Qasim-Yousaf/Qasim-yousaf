@@ -7,15 +7,15 @@ production iOS & Android apps across Fintech, EdTech, Healthcare, Enterprise, E-
 
 | App | Category | Stack |
 |-----|----------|-------|
-| Bright Future | EdTech | React Native, PHP Laravel, BunnyCDN, AWS |
-| Clean Energy | Maps + Location | React Native, Google Maps, Waze |
-| Bigshooter Golf | Gaming | React Native, AWS |
-| App Work| Technician App | React Native, Node, Firebase, AWS|
-| Cash Coach AI | AI + Fintech | React Native, OpenAI, Firebase |
-| Zid POS | Enterprise POS | React Native Windows, Realm DB |
-| YouOptimised | Health Tech | React Native, Apple Health, Terra SDK |
-| Stakester | Gaming | React Native, Elixir |
-| LockStock |E-commerce | Shopify integration, cart, checkout, order tracking |
+| [Cash Coach AI](https://apps.apple.com/pk/app/cash-coach-ai-money-tracker/id6474867987?platform=watch) | AI + Fintech | React Native, OpenAI, Firebase |
+| [Zid POS](https://zid.sa/en/solutions/pos/) | Enterprise POS | React Native Windows, Realm DB |
+| [App Work](https://apps.apple.com/us/app/appwork-technician-app/id1436320764) | Technician App | React Native, Node, Firebase, AWS |
+| [Bright Future](https://apps.apple.com/us/app/bright-%D8%A8%D8%B1%D8%A7%D9%8A%D8%AA/id6477784102) | EdTech | React Native, PHP Laravel, BunnyCDN, AWS |
+| [Clean Energy](https://play.google.com/store/apps/details?id=com.cleanenergyfuels&hl=en) | Maps + Location | React Native, Google Maps, Waze |
+| [Bigshooter Golf](https://invozone.com/portfolio/big-shooter-golf/) | Gaming | React Native, AWS |
+| [YouOptimised](https://www.youoptimised.com/why-you-optimised/) | Health Tech | React Native, Apple Health, Terra SDK |
+| [Stakester](https://apps.apple.com/us/app/stakester-win-money-prizes/id1477033390?uo=4) | Gaming | React Native, Elixir |
+| [LockStock](https://www.instagram.com/lockstock.official/) | E-commerce | Shopify integration, Cart, Checkout, Order tracking |
 
 ## Tech Stack
 
