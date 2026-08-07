@@ -78,7 +78,8 @@ If you're building a mobile app or scaling an existing one, I can help.
 
 - Upwork: https://www.upwork.com/freelancers/qasimyousaf
 - LinkedIn: https://www.linkedin.com/in/qasim-yousaf
-- Contact: +923244015263 
 - WhatsApp https://wa.me/+923244015263
+- Contact: +923244015263 
+
 
 ---
