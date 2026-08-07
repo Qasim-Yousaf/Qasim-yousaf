@@ -26,6 +26,7 @@ production iOS & Android apps across Fintech, EdTech, Healthcare, Enterprise, E-
 - **Integrations:** OpenAI, Stripe, Shopify, Google Maps, Waze, Apple Health, Terra SDK
 - **Store:** Apple Connect, Google Play Console
 - **Cloud:** AWS, GCP, Firebase, SupaBase
+- **AI Tools:** GitHub Copilot, Cursor, Claude, ChatGPT, Codex, Gemini
 
 ## Experience
 
@@ -78,7 +79,7 @@ If you're building a mobile app or scaling an existing one, I can help.
 
 - Upwork: https://www.upwork.com/freelancers/qasimyousaf
 - LinkedIn: https://www.linkedin.com/in/qasim-yousaf
-- WhatsApp https://wa.me/+923244015263
+- WhatsApp: https://wa.me/+923244015263
 - Contact: +923244015263 
 
 
