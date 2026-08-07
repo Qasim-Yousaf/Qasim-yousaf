@@ -1,6 +1,6 @@
 # Hi, I'm Qasim Yousaf
 
-Senior Mobile Application Engineer | React Native Developer — 6+ years shipping 
+Senior Mobile Application Engineer | React Native Developer — 7+ years shipping 
 production iOS & Android apps across Fintech, EdTech, Healthcare, Enterprise, E-commerce & Gaming.
 
 ## Live Apps I Have Built
@@ -29,7 +29,7 @@ production iOS & Android apps across Fintech, EdTech, Healthcare, Enterprise, E-
 
 ## Experience
 
-- Senior Software Engineer at Devsinc (2025 - Present)
+- Senior Software Engineer at Devsinc (2025 - 2026)
 - Senior Software Engineer at InvoZone (2021 - 2025)
 - Software Engineer at Technovier (2019 - 2021)
 
